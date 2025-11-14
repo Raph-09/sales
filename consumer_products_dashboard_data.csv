@@ -1,0 +1,217 @@
+Region,Category,Channel,Month,Sales,Inventory,GDP_Growth,Population_Million,Customer,Category_Preference,Total_Purchase
+Asia,Beverages,Online,2024-01-31,8270,1360,5.0,4500,Customer_1,Beverages,12657
+Asia,Beverages,Online,2024-02-29,6390,4272,5.0,4500,Customer_5,Beverages,13043
+Asia,Beverages,Online,2024-03-31,6734,966,5.0,4500,Customer_12,Beverages,5171
+Asia,Beverages,Online,2024-04-30,5426,3944,5.0,4500,Customer_90,Snacks,15388
+Asia,Beverages,Online,2024-05-31,9322,2185,5.0,4500,Customer_46,Snacks,10588
+Asia,Beverages,Online,2024-06-30,1769,2891,5.0,4500,Customer_34,Personal Care,14116
+Asia,Beverages,Online,2024-07-31,7949,2933,5.0,4500,Customer_49,Beverages,1667
+Asia,Beverages,Online,2024-08-31,6311,1684,5.0,4500,Customer_78,Beverages,9427
+Asia,Beverages,Online,2024-09-30,5555,3885,5.0,4500,Customer_90,Snacks,15388
+Asia,Beverages,Online,2024-10-31,7396,3404,5.0,4500,Customer_45,Personal Care,6645
+Asia,Beverages,Online,2024-11-30,9666,1582,5.0,4500,Customer_27,Beverages,14807
+Asia,Beverages,Online,2024-12-31,3558,2547,5.0,4500,Customer_73,Snacks,5976
+Asia,Beverages,Retail,2024-01-31,3747,1475,5.0,4500,Customer_26,Beverages,18924
+Asia,Beverages,Retail,2024-02-29,1189,3234,5.0,4500,Customer_47,Personal Care,4330
+Asia,Beverages,Retail,2024-03-31,4005,2399,5.0,4500,Customer_86,Snacks,10550
+Asia,Beverages,Retail,2024-04-30,8734,1767,5.0,4500,Customer_56,Snacks,13677
+Asia,Beverages,Retail,2024-05-31,2528,3702,5.0,4500,Customer_94,Personal Care,8350
+Asia,Beverages,Retail,2024-06-30,4556,4390,5.0,4500,Customer_63,Beverages,14772
+Asia,Beverages,Retail,2024-07-31,9838,3388,5.0,4500,Customer_48,Snacks,8114
+Asia,Beverages,Retail,2024-08-31,6393,2935,5.0,4500,Customer_61,Beverages,5158
+Asia,Beverages,Retail,2024-09-30,9792,2863,5.0,4500,Customer_81,Snacks,7996
+Asia,Beverages,Retail,2024-10-31,9433,2541,5.0,4500,Customer_26,Beverages,18924
+Asia,Beverages,Retail,2024-11-30,8513,3112,5.0,4500,Customer_36,Snacks,11188
+Asia,Beverages,Retail,2024-12-31,8041,1863,5.0,4500,Customer_1,Beverages,12657
+Asia,Snacks,Online,2024-01-31,7235,1978,5.0,4500,Customer_8,Beverages,14584
+Asia,Snacks,Online,2024-02-29,1775,4514,5.0,4500,Customer_99,Snacks,13891
+Asia,Snacks,Online,2024-03-31,9226,3652,5.0,4500,Customer_52,Personal Care,5835
+Asia,Snacks,Online,2024-04-30,2585,4443,5.0,4500,Customer_79,Beverages,5858
+Asia,Snacks,Online,2024-05-31,8555,3573,5.0,4500,Customer_47,Personal Care,4330
+Asia,Snacks,Online,2024-06-30,2021,3961,5.0,4500,Customer_56,Snacks,13677
+Asia,Snacks,Online,2024-07-31,4843,2000,5.0,4500,Customer_86,Snacks,10550
+Asia,Snacks,Online,2024-08-31,7873,661,5.0,4500,Customer_14,Beverages,6486
+Asia,Snacks,Online,2024-09-30,5297,2481,5.0,4500,Customer_90,Snacks,15388
+Asia,Snacks,Online,2024-10-31,1995,3842,5.0,4500,Customer_28,Beverages,18749
+Asia,Snacks,Online,2024-11-30,8629,4298,5.0,4500,Customer_87,Beverages,11320
+Asia,Snacks,Online,2024-12-31,2016,837,5.0,4500,Customer_78,Beverages,9427
+Asia,Snacks,Retail,2024-01-31,1878,1576,5.0,4500,Customer_88,Snacks,8043
+Asia,Snacks,Retail,2024-02-29,5887,4493,5.0,4500,Customer_2,Personal Care,3967
+Asia,Snacks,Retail,2024-03-31,5859,879,5.0,4500,Customer_26,Beverages,18924
+Asia,Snacks,Retail,2024-04-30,9684,2562,5.0,4500,Customer_14,Beverages,6486
+Asia,Snacks,Retail,2024-05-31,1064,3068,5.0,4500,Customer_59,Personal Care,6124
+Asia,Snacks,Retail,2024-06-30,6463,2527,5.0,4500,Customer_56,Snacks,13677
+Asia,Snacks,Retail,2024-07-31,3695,1995,5.0,4500,Customer_7,Beverages,3914
+Asia,Snacks,Retail,2024-08-31,6258,891,5.0,4500,Customer_3,Snacks,18506
+Asia,Snacks,Retail,2024-09-30,6892,4061,5.0,4500,Customer_23,Beverages,18337
+Asia,Snacks,Retail,2024-10-31,7184,3599,5.0,4500,Customer_18,Beverages,19540
+Asia,Snacks,Retail,2024-11-30,7278,700,5.0,4500,Customer_38,Beverages,1823
+Asia,Snacks,Retail,2024-12-31,4104,2954,5.0,4500,Customer_99,Snacks,13891
+Asia,Personal Care,Online,2024-01-31,9996,3231,5.0,4500,Customer_15,Beverages,5491
+Asia,Personal Care,Online,2024-02-29,9154,2070,5.0,4500,Customer_64,Personal Care,11344
+Asia,Personal Care,Online,2024-03-31,6056,3190,5.0,4500,Customer_89,Snacks,5164
+Asia,Personal Care,Online,2024-04-30,4840,1528,5.0,4500,Customer_28,Beverages,18749
+Asia,Personal Care,Online,2024-05-31,8385,1002,5.0,4500,Customer_74,Personal Care,8239
+Asia,Personal Care,Online,2024-06-30,7910,4993,5.0,4500,Customer_39,Snacks,14428
+Asia,Personal Care,Online,2024-07-31,7938,4988,5.0,4500,Customer_57,Beverages,17639
+Asia,Personal Care,Online,2024-08-31,1206,1984,5.0,4500,Customer_17,Beverages,2167
+Asia,Personal Care,Online,2024-09-30,8858,1363,5.0,4500,Customer_86,Snacks,10550
+Asia,Personal Care,Online,2024-10-31,3790,1063,5.0,4500,Customer_90,Snacks,15388
+Asia,Personal Care,Online,2024-11-30,6116,4691,5.0,4500,Customer_44,Beverages,7190
+Asia,Personal Care,Online,2024-12-31,7019,2257,5.0,4500,Customer_25,Snacks,14964
+Asia,Personal Care,Retail,2024-01-31,8574,2178,5.0,4500,Customer_17,Beverages,2167
+Asia,Personal Care,Retail,2024-02-29,4242,1559,5.0,4500,Customer_13,Personal Care,18101
+Asia,Personal Care,Retail,2024-03-31,7668,2222,5.0,4500,Customer_84,Personal Care,7941
+Asia,Personal Care,Retail,2024-04-30,4157,3125,5.0,4500,Customer_25,Snacks,14964
+Asia,Personal Care,Retail,2024-05-31,3693,4127,5.0,4500,Customer_68,Personal Care,18844
+Asia,Personal Care,Retail,2024-06-30,6450,2163,5.0,4500,Customer_10,Personal Care,1698
+Asia,Personal Care,Retail,2024-07-31,6592,3802,5.0,4500,Customer_67,Snacks,10860
+Asia,Personal Care,Retail,2024-08-31,8392,1806,5.0,4500,Customer_18,Beverages,19540
+Asia,Personal Care,Retail,2024-09-30,7776,3175,5.0,4500,Customer_100,Snacks,14716
+Asia,Personal Care,Retail,2024-10-31,6864,1782,5.0,4500,Customer_86,Snacks,10550
+Asia,Personal Care,Retail,2024-11-30,8526,1209,5.0,4500,Customer_34,Personal Care,14116
+Asia,Personal Care,Retail,2024-12-31,6575,4913,5.0,4500,Customer_8,Beverages,14584
+Africa,Beverages,Online,2024-01-31,4748,1163,3.2,1300,Customer_40,Beverages,4627
+Africa,Beverages,Online,2024-02-29,2998,3945,3.2,1300,Customer_83,Snacks,10521
+Africa,Beverages,Online,2024-03-31,2495,3804,3.2,1300,Customer_42,Beverages,12003
+Africa,Beverages,Online,2024-04-30,4763,2353,3.2,1300,Customer_41,Personal Care,2852
+Africa,Beverages,Online,2024-05-31,7585,1791,3.2,1300,Customer_6,Personal Care,6644
+Africa,Beverages,Online,2024-06-30,4581,3957,3.2,1300,Customer_52,Personal Care,5835
+Africa,Beverages,Online,2024-07-31,8554,2136,3.2,1300,Customer_26,Beverages,18924
+Africa,Beverages,Online,2024-08-31,4696,3499,3.2,1300,Customer_64,Personal Care,11344
+Africa,Beverages,Online,2024-09-30,1698,2660,3.2,1300,Customer_98,Personal Care,12314
+Africa,Beverages,Online,2024-10-31,5737,1354,3.2,1300,Customer_59,Personal Care,6124
+Africa,Beverages,Online,2024-11-30,9164,3974,3.2,1300,Customer_56,Snacks,13677
+Africa,Beverages,Online,2024-12-31,6249,2207,3.2,1300,Customer_59,Personal Care,6124
+Africa,Beverages,Retail,2024-01-31,6791,2233,3.2,1300,Customer_70,Beverages,14456
+Africa,Beverages,Retail,2024-02-29,6535,4010,3.2,1300,Customer_33,Snacks,5748
+Africa,Beverages,Retail,2024-03-31,1202,3755,3.2,1300,Customer_53,Beverages,8312
+Africa,Beverages,Retail,2024-04-30,5218,4996,3.2,1300,Customer_22,Personal Care,7801
+Africa,Beverages,Retail,2024-05-31,9958,4889,3.2,1300,Customer_21,Beverages,6334
+Africa,Beverages,Retail,2024-06-30,3327,3431,3.2,1300,Customer_70,Beverages,14456
+Africa,Beverages,Retail,2024-07-31,8777,697,3.2,1300,Customer_70,Beverages,14456
+Africa,Beverages,Retail,2024-08-31,8125,2430,3.2,1300,Customer_4,Personal Care,3143
+Africa,Beverages,Retail,2024-09-30,7287,1108,3.2,1300,Customer_94,Personal Care,8350
+Africa,Beverages,Retail,2024-10-31,5282,3897,3.2,1300,Customer_75,Snacks,17633
+Africa,Beverages,Retail,2024-11-30,3511,2294,3.2,1300,Customer_62,Personal Care,7970
+Africa,Beverages,Retail,2024-12-31,1659,3311,3.2,1300,Customer_62,Personal Care,7970
+Africa,Snacks,Online,2024-01-31,8098,1869,3.2,1300,Customer_94,Personal Care,8350
+Africa,Snacks,Online,2024-02-29,2986,646,3.2,1300,Customer_95,Beverages,12637
+Africa,Snacks,Online,2024-03-31,3911,2234,3.2,1300,Customer_24,Personal Care,12493
+Africa,Snacks,Online,2024-04-30,2843,988,3.2,1300,Customer_55,Personal Care,2581
+Africa,Snacks,Online,2024-05-31,3976,2459,3.2,1300,Customer_9,Beverages,9787
+Africa,Snacks,Online,2024-06-30,6759,2885,3.2,1300,Customer_3,Snacks,18506
+Africa,Snacks,Online,2024-07-31,5736,2302,3.2,1300,Customer_31,Snacks,7588
+Africa,Snacks,Online,2024-08-31,9155,4561,3.2,1300,Customer_40,Beverages,4627
+Africa,Snacks,Online,2024-09-30,1262,1123,3.2,1300,Customer_36,Snacks,11188
+Africa,Snacks,Online,2024-10-31,3049,4223,3.2,1300,Customer_24,Personal Care,12493
+Africa,Snacks,Online,2024-11-30,5548,3608,3.2,1300,Customer_95,Beverages,12637
+Africa,Snacks,Online,2024-12-31,8158,2556,3.2,1300,Customer_6,Personal Care,6644
+Africa,Snacks,Retail,2024-01-31,8400,3670,3.2,1300,Customer_66,Beverages,13763
+Africa,Snacks,Retail,2024-02-29,3255,1654,3.2,1300,Customer_84,Personal Care,7941
+Africa,Snacks,Retail,2024-03-31,5499,3691,3.2,1300,Customer_92,Personal Care,13015
+Africa,Snacks,Retail,2024-04-30,2648,1945,3.2,1300,Customer_75,Snacks,17633
+Africa,Snacks,Retail,2024-05-31,5199,4423,3.2,1300,Customer_4,Personal Care,3143
+Africa,Snacks,Retail,2024-06-30,9445,3683,3.2,1300,Customer_79,Beverages,5858
+Africa,Snacks,Retail,2024-07-31,3557,598,3.2,1300,Customer_6,Personal Care,6644
+Africa,Snacks,Retail,2024-08-31,3200,3461,3.2,1300,Customer_94,Personal Care,8350
+Africa,Snacks,Retail,2024-09-30,5973,4933,3.2,1300,Customer_51,Snacks,8483
+Africa,Snacks,Retail,2024-10-31,3869,3734,3.2,1300,Customer_62,Personal Care,7970
+Africa,Snacks,Retail,2024-11-30,1956,4567,3.2,1300,Customer_57,Beverages,17639
+Africa,Snacks,Retail,2024-12-31,9352,4993,3.2,1300,Customer_66,Beverages,13763
+Africa,Personal Care,Online,2024-01-31,5911,4487,3.2,1300,Customer_79,Beverages,5858
+Africa,Personal Care,Online,2024-02-29,7015,1718,3.2,1300,Customer_75,Snacks,17633
+Africa,Personal Care,Online,2024-03-31,5496,3604,3.2,1300,Customer_8,Beverages,14584
+Africa,Personal Care,Online,2024-04-30,5555,1454,3.2,1300,Customer_26,Beverages,18924
+Africa,Personal Care,Online,2024-05-31,9050,3946,3.2,1300,Customer_51,Snacks,8483
+Africa,Personal Care,Online,2024-06-30,2045,2193,3.2,1300,Customer_45,Personal Care,6645
+Africa,Personal Care,Online,2024-07-31,4436,1062,3.2,1300,Customer_44,Beverages,7190
+Africa,Personal Care,Online,2024-08-31,6895,3854,3.2,1300,Customer_5,Beverages,13043
+Africa,Personal Care,Online,2024-09-30,1225,1459,3.2,1300,Customer_70,Beverages,14456
+Africa,Personal Care,Online,2024-10-31,6600,3567,3.2,1300,Customer_26,Beverages,18924
+Africa,Personal Care,Online,2024-11-30,8996,1315,3.2,1300,Customer_68,Personal Care,18844
+Africa,Personal Care,Online,2024-12-31,8683,3620,3.2,1300,Customer_19,Snacks,12174
+Africa,Personal Care,Retail,2024-01-31,8679,516,3.2,1300,Customer_84,Personal Care,7941
+Africa,Personal Care,Retail,2024-02-29,8339,1743,3.2,1300,Customer_97,Snacks,5188
+Africa,Personal Care,Retail,2024-03-31,3205,3024,3.2,1300,Customer_20,Beverages,5729
+Africa,Personal Care,Retail,2024-04-30,2069,3944,3.2,1300,Customer_12,Beverages,5171
+Africa,Personal Care,Retail,2024-05-31,2060,2827,3.2,1300,Customer_47,Personal Care,4330
+Africa,Personal Care,Retail,2024-06-30,4420,801,3.2,1300,Customer_1,Beverages,12657
+Africa,Personal Care,Retail,2024-07-31,1606,3670,3.2,1300,Customer_90,Snacks,15388
+Africa,Personal Care,Retail,2024-08-31,1699,1639,3.2,1300,Customer_14,Beverages,6486
+Africa,Personal Care,Retail,2024-09-30,1190,2800,3.2,1300,Customer_64,Personal Care,11344
+Africa,Personal Care,Retail,2024-10-31,1980,3475,3.2,1300,Customer_38,Beverages,1823
+Africa,Personal Care,Retail,2024-11-30,7102,1684,3.2,1300,Customer_37,Beverages,2214
+Africa,Personal Care,Retail,2024-12-31,4327,3894,3.2,1300,Customer_11,Beverages,14923
+Europe,Beverages,Online,2024-01-31,9319,2565,2.8,750,Customer_100,Snacks,14716
+Europe,Beverages,Online,2024-02-29,2816,1069,2.8,750,Customer_77,Beverages,5363
+Europe,Beverages,Online,2024-03-31,6442,2395,2.8,750,Customer_3,Snacks,18506
+Europe,Beverages,Online,2024-04-30,3733,4363,2.8,750,Customer_33,Snacks,5748
+Europe,Beverages,Online,2024-05-31,8455,4514,2.8,750,Customer_6,Personal Care,6644
+Europe,Beverages,Online,2024-06-30,2686,3509,2.8,750,Customer_50,Snacks,14659
+Europe,Beverages,Online,2024-07-31,8806,654,2.8,750,Customer_10,Personal Care,1698
+Europe,Beverages,Online,2024-08-31,2409,4557,2.8,750,Customer_5,Beverages,13043
+Europe,Beverages,Online,2024-09-30,1784,3675,2.8,750,Customer_23,Beverages,18337
+Europe,Beverages,Online,2024-10-31,9096,4841,2.8,750,Customer_10,Personal Care,1698
+Europe,Beverages,Online,2024-11-30,8343,3306,2.8,750,Customer_44,Beverages,7190
+Europe,Beverages,Online,2024-12-31,1537,2341,2.8,750,Customer_2,Personal Care,3967
+Europe,Beverages,Retail,2024-01-31,9716,3450,2.8,750,Customer_13,Personal Care,18101
+Europe,Beverages,Retail,2024-02-29,8992,4631,2.8,750,Customer_40,Beverages,4627
+Europe,Beverages,Retail,2024-03-31,5780,4615,2.8,750,Customer_2,Personal Care,3967
+Europe,Beverages,Retail,2024-04-30,3368,4347,2.8,750,Customer_84,Personal Care,7941
+Europe,Beverages,Retail,2024-05-31,7655,4995,2.8,750,Customer_65,Beverages,1384
+Europe,Beverages,Retail,2024-06-30,7002,1666,2.8,750,Customer_63,Beverages,14772
+Europe,Beverages,Retail,2024-07-31,6919,3274,2.8,750,Customer_73,Snacks,5976
+Europe,Beverages,Retail,2024-08-31,1853,4646,2.8,750,Customer_17,Beverages,2167
+Europe,Beverages,Retail,2024-09-30,4769,1074,2.8,750,Customer_9,Beverages,9787
+Europe,Beverages,Retail,2024-10-31,2148,2215,2.8,750,Customer_75,Snacks,17633
+Europe,Beverages,Retail,2024-11-30,5777,4354,2.8,750,Customer_15,Beverages,5491
+Europe,Beverages,Retail,2024-12-31,3491,3160,2.8,750,Customer_24,Personal Care,12493
+Europe,Snacks,Online,2024-01-31,4124,3551,2.8,750,Customer_38,Beverages,1823
+Europe,Snacks,Online,2024-02-29,1004,1376,2.8,750,Customer_35,Beverages,11150
+Europe,Snacks,Online,2024-03-31,8027,4642,2.8,750,Customer_94,Personal Care,8350
+Europe,Snacks,Online,2024-04-30,7966,4864,2.8,750,Customer_95,Beverages,12637
+Europe,Snacks,Online,2024-05-31,5465,1135,2.8,750,Customer_49,Beverages,1667
+Europe,Snacks,Online,2024-06-30,2693,2182,2.8,750,Customer_69,Beverages,4636
+Europe,Snacks,Online,2024-07-31,5752,619,2.8,750,Customer_62,Personal Care,7970
+Europe,Snacks,Online,2024-08-31,1830,4175,2.8,750,Customer_60,Personal Care,3193
+Europe,Snacks,Online,2024-09-30,6177,1869,2.8,750,Customer_50,Snacks,14659
+Europe,Snacks,Online,2024-10-31,9932,616,2.8,750,Customer_78,Beverages,9427
+Europe,Snacks,Online,2024-11-30,6949,3338,2.8,750,Customer_75,Snacks,17633
+Europe,Snacks,Online,2024-12-31,2150,2431,2.8,750,Customer_9,Beverages,9787
+Europe,Snacks,Retail,2024-01-31,2664,1581,2.8,750,Customer_34,Personal Care,14116
+Europe,Snacks,Retail,2024-02-29,1512,3349,2.8,750,Customer_76,Personal Care,11357
+Europe,Snacks,Retail,2024-03-31,8805,1059,2.8,750,Customer_99,Snacks,13891
+Europe,Snacks,Retail,2024-04-30,4672,3843,2.8,750,Customer_35,Beverages,11150
+Europe,Snacks,Retail,2024-05-31,5070,1970,2.8,750,Customer_1,Beverages,12657
+Europe,Snacks,Retail,2024-06-30,1580,2794,2.8,750,Customer_40,Beverages,4627
+Europe,Snacks,Retail,2024-07-31,9130,3647,2.8,750,Customer_64,Personal Care,11344
+Europe,Snacks,Retail,2024-08-31,5249,2179,2.8,750,Customer_22,Personal Care,7801
+Europe,Snacks,Retail,2024-09-30,4506,3244,2.8,750,Customer_60,Personal Care,3193
+Europe,Snacks,Retail,2024-10-31,6188,3618,2.8,750,Customer_64,Personal Care,11344
+Europe,Snacks,Retail,2024-11-30,3141,3559,2.8,750,Customer_93,Beverages,7254
+Europe,Snacks,Retail,2024-12-31,7617,2979,2.8,750,Customer_72,Snacks,18100
+Europe,Personal Care,Online,2024-01-31,7484,2135,2.8,750,Customer_11,Beverages,14923
+Europe,Personal Care,Online,2024-02-29,8421,2257,2.8,750,Customer_14,Beverages,6486
+Europe,Personal Care,Online,2024-03-31,5452,2570,2.8,750,Customer_60,Personal Care,3193
+Europe,Personal Care,Online,2024-04-30,6881,3349,2.8,750,Customer_30,Personal Care,4141
+Europe,Personal Care,Online,2024-05-31,8390,4230,2.8,750,Customer_35,Beverages,11150
+Europe,Personal Care,Online,2024-06-30,3489,2131,2.8,750,Customer_85,Beverages,11209
+Europe,Personal Care,Online,2024-07-31,5611,3587,2.8,750,Customer_37,Beverages,2214
+Europe,Personal Care,Online,2024-08-31,3839,835,2.8,750,Customer_5,Beverages,13043
+Europe,Personal Care,Online,2024-09-30,6878,1395,2.8,750,Customer_83,Snacks,10521
+Europe,Personal Care,Online,2024-10-31,7303,4046,2.8,750,Customer_78,Beverages,9427
+Europe,Personal Care,Online,2024-11-30,1851,2187,2.8,750,Customer_26,Beverages,18924
+Europe,Personal Care,Online,2024-12-31,7833,4246,2.8,750,Customer_62,Personal Care,7970
+Europe,Personal Care,Retail,2024-01-31,3427,2068,2.8,750,Customer_4,Personal Care,3143
+Europe,Personal Care,Retail,2024-02-29,5000,3238,2.8,750,Customer_89,Snacks,5164
+Europe,Personal Care,Retail,2024-03-31,6732,4413,2.8,750,Customer_42,Beverages,12003
+Europe,Personal Care,Retail,2024-04-30,2066,4880,2.8,750,Customer_89,Snacks,5164
+Europe,Personal Care,Retail,2024-05-31,5107,3873,2.8,750,Customer_18,Beverages,19540
+Europe,Personal Care,Retail,2024-06-30,9945,2582,2.8,750,Customer_40,Beverages,4627
+Europe,Personal Care,Retail,2024-07-31,9967,2125,2.8,750,Customer_72,Snacks,18100
+Europe,Personal Care,Retail,2024-08-31,1417,614,2.8,750,Customer_39,Snacks,14428
+Europe,Personal Care,Retail,2024-09-30,9808,4474,2.8,750,Customer_14,Beverages,6486
+Europe,Personal Care,Retail,2024-10-31,4267,1325,2.8,750,Customer_32,Personal Care,16485
+Europe,Personal Care,Retail,2024-11-30,8668,2016,2.8,750,Customer_51,Snacks,8483
+Europe,Personal Care,Retail,2024-12-31,1412,1228,2.8,750,Customer_38,Beverages,1823
